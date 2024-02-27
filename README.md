@@ -6,7 +6,7 @@ Usually, if I buy any product I will always check whether that product is qualit
 
 🔷 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞:
 
-I’m an ISTQB Certified Software Testing Engineer with 6+ years of experience in Manual, Automation, and API testing. I have explored various tools such as Cypress, WebDriverIO, Puppeteer, and Selenium for Web applications, RestAssured for API Automation, and Appium for mobile automation. Having Java, Javascript, and Typescript programming language experience. Some basic knowledge on performance testing with JMeter, AWS, Docker, Linux, etc. I have designed and developed my own automation framework from the scratch. One of my favorite functional areas is automating the application which reduces the repetitive manual work.
+I’m an ISTQB Certified Software Testing Engineer with 8+ years of experience in Manual, Automation, and API testing. I have explored various tools such as Cypress, WebDriverIO, Puppeteer, and Selenium for Web applications, RestAssured for API Automation, and Appium for mobile automation. Having Java, Javascript, and Typescript programming language experience. Some basic knowledge on performance testing with JMeter, AWS, Docker, Linux, etc. I have designed and developed my own automation framework from the scratch. One of my favorite functional areas is automating the application which reduces the repetitive manual work.
 
 🔷 𝐖𝐡𝐲 𝐲𝐨𝐮 𝐬𝐡𝐨𝐮𝐥𝐝 𝐡𝐢𝐫𝐞 𝐦𝐞:
 
